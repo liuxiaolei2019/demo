@@ -14,6 +14,6 @@ public class test {
 
 
 
-        return "后继是个大死鬼";
+        return "XX大死鬼";
     }
 }
